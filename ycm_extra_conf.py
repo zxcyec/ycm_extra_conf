@@ -16,7 +16,7 @@ flags = [
     '-Wextra',
     '-Wno-long-long',
     '-Wno-variadic-macros',
-    '-Wno-parentheses'
+    '-Wno-parentheses',
     '-fexceptions',
     '-DNDEBUG',
     '-std=c++17',
